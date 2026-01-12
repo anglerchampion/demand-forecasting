@@ -6,6 +6,21 @@ The project predicts future store-level sales using **LightGBM** and **Prophet**
 
 ---
 
+## Contributors
+  
+- Kashyap Madhav Yeleswarapu
+- Donthabhaktuni Chaitanya
+
+This project was completed through collaborative development and joint implementation.
+
+---
+
+## Acknowledgements
+
+This project was completed with collaborative contributions from Donthabhaktuni Chaitanya, including joint development, experimentation, and refinement of the forecasting pipeline.
+
+---
+
 ##  Project Overview
 
 Retailers need accurate demand forecasts to plan inventory, staffing, and promotions.
